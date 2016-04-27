@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>EUGENE</Machine>
+    <WindowsUser>Eugene</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>744db149-bfeb-4f70-8167-35b38205728b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Eugene\Desktop\게임\Pong Pong\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A43A01462DB87AFFEBFA88CAE42012F5DDA20D697ABD5424A58FAAA44B06A7FC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>744db149-bfeb-4f70-8167-35b38205728b_1.1.0.0_neutral__4j4qdv46jwqvm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>744db149-bfeb-4f70-8167-35b38205728b_4j4qdv46jwqvm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>744db149-bfeb-4f70-8167-35b38205728b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Eugene</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Eugene\Desktop\게임\Pong Pong\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-05T07:54:54.202</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\data.json">
+      <PackagePath>data.json</PackagePath>
+      <Modified>2015-10-05T07:32:00.809</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\c2runtime.js">
+      <PackagePath>c2runtime.js</PackagePath>
+      <Modified>2015-10-05T07:32:26.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\jquery-2.1.1.min.js">
+      <PackagePath>jquery-2.1.1.min.js</PackagePath>
+      <Modified>2014-10-29T02:05:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\egg_mint1-sheet0.png">
+      <PackagePath>images\egg_mint1-sheet0.png</PackagePath>
+      <Modified>2015-10-05T07:31:29.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\egg_mint1-sheet1.png">
+      <PackagePath>images\egg_mint1-sheet1.png</PackagePath>
+      <Modified>2015-10-05T07:31:28.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\egg_pink1-sheet0.png">
+      <PackagePath>images\egg_pink1-sheet0.png</PackagePath>
+      <Modified>2015-10-05T07:31:28.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\egg_pink1-sheet1.png">
+      <PackagePath>images\egg_pink1-sheet1.png</PackagePath>
+      <Modified>2015-10-05T07:31:29.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\p1.png">
+      <PackagePath>images\p1.png</PackagePath>
+      <Modified>2015-10-05T07:31:33.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\pause-sheet0.png">
+      <PackagePath>images\pause-sheet0.png</PackagePath>
+      <Modified>2015-10-05T07:31:32.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\tiledbackground.png">
+      <PackagePath>images\tiledbackground.png</PackagePath>
+      <Modified>2015-10-05T07:32:00.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\tiledbackground2.png">
+      <PackagePath>images\tiledbackground2.png</PackagePath>
+      <Modified>2015-10-05T07:31:31.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\restart-sheet0.png">
+      <PackagePath>images\restart-sheet0.png</PackagePath>
+      <Modified>2015-10-05T07:31:32.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\resume-sheet0.png">
+      <PackagePath>images\resume-sheet0.png</PackagePath>
+      <Modified>2015-10-05T07:31:33.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\tiledbackground4.png">
+      <PackagePath>images\tiledbackground4.png</PackagePath>
+      <Modified>2015-10-05T07:31:38.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\sprite-sheet0.png">
+      <PackagePath>images\sprite-sheet0.png</PackagePath>
+      <Modified>2015-10-05T07:31:35.802</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\sprite2-sheet0.png">
+      <PackagePath>images\sprite2-sheet0.png</PackagePath>
+      <Modified>2015-10-05T07:31:39.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\tiledbackground5.png">
+      <PackagePath>images\tiledbackground5.png</PackagePath>
+      <Modified>2015-10-05T07:31:42.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\images\sprite3-sheet0.png">
+      <PackagePath>images\sprite3-sheet0.png</PackagePath>
+      <Modified>2015-10-05T07:31:42.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\icon-16.png">
+      <PackagePath>icon-16.png</PackagePath>
+      <Modified>2015-10-05T03:30:42.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\icon-32.png">
+      <PackagePath>icon-32.png</PackagePath>
+      <Modified>2015-10-05T03:30:42.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\icon-114.png">
+      <PackagePath>icon-114.png</PackagePath>
+      <Modified>2015-10-05T03:30:42.788</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\icon-128.png">
+      <PackagePath>icon-128.png</PackagePath>
+      <Modified>2015-10-05T03:30:42.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\icon-256.png">
+      <PackagePath>icon-256.png</PackagePath>
+      <Modified>2015-10-05T03:30:42.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\loading-logo.png">
+      <PackagePath>loading-logo.png</PackagePath>
+      <Modified>2015-10-05T03:30:42.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\app-logo.png">
+      <PackagePath>app-logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-05T07:51:31.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\app-smalllogo.png">
+      <PackagePath>app-smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-05T07:52:30.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\app-storelogo.png">
+      <PackagePath>app-storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-05T07:53:28.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\splashscreen.png">
+      <PackagePath>splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-19T12:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2015-10-05T07:42:23.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\about.html">
+      <PackagePath>about.html</PackagePath>
+      <Modified>2015-10-05T07:42:23.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\support.html">
+      <PackagePath>support.html</PackagePath>
+      <Modified>2015-10-05T07:42:23.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\privacy.html">
+      <PackagePath>privacy.html</PackagePath>
+      <Modified>2015-10-05T07:42:23.274</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\WindowsStoreProxy.xml">
+      <PackagePath>WindowsStoreProxy.xml</PackagePath>
+      <Modified>2013-05-23T02:20:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eugene\Desktop\게임\Pong Pong\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-05T07:54:52.823</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
